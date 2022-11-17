@@ -29,5 +29,9 @@ const props = defineProps<{
   h1{
     font-family: 'Roboto Mono', monospace;
   }
+
+  p {
+    margin-bottom: 20px;
+  }
 }
 </style>

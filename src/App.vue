@@ -11,28 +11,28 @@ const glitchedWriterOptions = {
 const people = [
   {
     name: "La Badessa Alessandro",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dapibus eros. Vestibulum vitae cursus lorem, vitae ornare enim. Integer gravida quam sem, quis tristique nisi volutpat vitae. Nam pharetra id eros ac blandit. Donec id tellus ipsum. Cras."
+    description: "Professore di Meccanica"
   }, {
     name: "Salvetti Lapo",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dapibus eros. Vestibulum vitae cursus lorem, vitae ornare enim. Integer gravida quam sem, quis tristique nisi volutpat vitae. Nam pharetra id eros ac blandit. Donec id tellus ipsum. Cras."
+    description: "Professore di Telecomunicazioni"
   }, {
     name: "Ciaramella Simona",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dapibus eros. Vestibulum vitae cursus lorem, vitae ornare enim. Integer gravida quam sem, quis tristique nisi volutpat vitae. Nam pharetra id eros ac blandit. Donec id tellus ipsum. Cras."
+    description: "Professoressa di Italiano"
   }, {
     name: "Baldi Maria Cristina",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dapibus eros. Vestibulum vitae cursus lorem, vitae ornare enim. Integer gravida quam sem, quis tristique nisi volutpat vitae. Nam pharetra id eros ac blandit. Donec id tellus ipsum. Cras."
+    description: "Professoressa di Italiano"
   }, {
     name: "Mascioni Fosco",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dapibus eros. Vestibulum vitae cursus lorem, vitae ornare enim. Integer gravida quam sem, quis tristique nisi volutpat vitae. Nam pharetra id eros ac blandit. Donec id tellus ipsum. Cras."
+    description: "Vicepreside e professore di Logistica"
   }, {
     name: "Nocentini Matassini Daniele",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dapibus eros. Vestibulum vitae cursus lorem, vitae ornare enim. Integer gravida quam sem, quis tristique nisi volutpat vitae. Nam pharetra id eros ac blandit. Donec id tellus ipsum. Cras."
+    description: "Professore di Meccanica"
   }, {
     name: "Lerario Francesca",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dapibus eros. Vestibulum vitae cursus lorem, vitae ornare enim. Integer gravida quam sem, quis tristique nisi volutpat vitae. Nam pharetra id eros ac blandit. Donec id tellus ipsum. Cras."
+    description: "Professoressa di Elettrotecnica"
   }, {
     name: "Dallai Nada",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dapibus eros. Vestibulum vitae cursus lorem, vitae ornare enim. Integer gravida quam sem, quis tristique nisi volutpat vitae. Nam pharetra id eros ac blandit. Donec id tellus ipsum. Cras."
+    description: "Professoressa di Matematica"
   },
 ]
 
