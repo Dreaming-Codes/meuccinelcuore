@@ -48,9 +48,26 @@ onMounted(() => {
     <GlitchedWriter :options="glitchedWriterOptions" appear class="text" preset="neo" text="Meucci Nel Cuore"/>
   </div>
   <Person v-for="(person) in people" :description="person.description" :name="person.name"/>
+  <p id="credit">Sito realizzato da <a href="mailto:me@dreaming.codes" target="_blank">Lorenzo Rizzotti</a></p>
 </template>
 
 <style lang="scss" scoped>
+#credit {
+  position: relative;
+  margin: 1rem 2rem 1rem 1rem;
+  float: right;
+  font-size: 3vmin;
+
+  a {
+    color: var(--color-text);
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
 .fullPageSection {
   display: flex;
   justify-content: center;
