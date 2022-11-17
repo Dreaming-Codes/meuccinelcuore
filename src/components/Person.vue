@@ -24,7 +24,6 @@ const props = defineProps<{
   font-size: 5vmin;
   font-weight: 100;
   padding: 0 10vw;
-  pointer-events: none;
 
   h1{
     font-family: 'Roboto Mono', monospace;
