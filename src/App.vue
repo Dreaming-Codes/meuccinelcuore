@@ -36,8 +36,13 @@ const people = [
   },
 ]
 
-//Fix for scroll animation
 onMounted(() => {
+  // bypass auto scrolling.
+  if ('scrollRestoration' in history) {
+    history.scrollRestoration = 'manual';
+  }
+
+  //Fix for scroll animation
   window.scroll(0, 0);
 });
 </script>
