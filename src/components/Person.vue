@@ -25,7 +25,7 @@ const props = defineProps<{
   font-weight: 100;
   padding: 0 10vw;
 
-  h1{
+  h1 {
     font-family: 'Roboto Mono', monospace;
   }
 
