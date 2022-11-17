@@ -23,7 +23,7 @@ const people = [
     description: "Professoressa di Italiano"
   }, {
     name: "Mascioni Fosco",
-    description: "Vicepreside e professore di Logistica"
+    description: "Vicepreside e Professore di Logistica"
   }, {
     name: "Nocentini Matassini Daniele",
     description: "Professore di Meccanica"
