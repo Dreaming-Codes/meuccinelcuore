@@ -21,13 +21,12 @@ const props = defineProps<{
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-size: 5vh;
+  font-size: 5vw;
   font-weight: 100;
   padding: 0 10vw;
   pointer-events: none;
 
   h1{
-
     font-family: 'Roboto Mono', monospace;
   }
 }
