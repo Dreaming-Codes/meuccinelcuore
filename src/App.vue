@@ -53,7 +53,7 @@ onMounted(() => {
     <GlitchedWriter :options="glitchedWriterOptions" appear class="text" preset="neo" text="Meucci Nel Cuore"/>
   </div>
   <Person v-for="(person) in people" :description="person.description" :name="person.name"/>
-  <p id="credit">Sito realizzato da <a href="mailto:me@dreaming.codes" target="_blank">Lorenzo Rizzotti</a></p>
+  <p id="credit">Sito realizzato da <a href="https://dreaming.codes" target="_blank">Lorenzo Rizzotti</a></p>
 </template>
 
 <style lang="scss" scoped>
